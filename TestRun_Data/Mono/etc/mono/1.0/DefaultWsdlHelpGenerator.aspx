@@ -38,7 +38,7 @@ XmlSchemas schemas;
 
 string WebServiceName;
 string WebServiceDescription;
-string PageName;
+string PageName2;
 
 string DefaultBinding;
 ArrayList ServiceProtocols;
